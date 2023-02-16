@@ -3,7 +3,7 @@
 
 ## 프로젝트 PPT
 ___
-[Gardening 프로젝트 -초안-.pptx](https://github.com/angpang2/Gardening/files/10531446/Gardening.-.-.pptx)
+[Gardening프로젝트.pdf](https://github.com/angpang2/Gardening/files/10751263/Gardening.pdf)
 
 
 ## 💭 기획의도
